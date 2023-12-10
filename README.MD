@@ -26,3 +26,4 @@ AI Video & Images processing
 * [Ai Image background changer](https://imgcreator.zmo.ai/tools/background-changer)
 * [Microsoft designer](https://designer.microsoft.com/)
 * [InVideo Video Creator](https://ai.invideo.io/)
+* [Huggingface](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
