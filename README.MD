@@ -4,6 +4,7 @@ Generative AI images sites:
 * [Adobe Firefly](https://firefly.adobe.com/generate/)
 * [Bing text to image creator](https://www.bing.com/create)
 * [Dream studio](https://dreamstudio.ai/generate)
+* [Imagine Meta](https://imagine.meta.com/)
 
 Generative text content site (LLM) :
 * [Google Bard](https://bard.google.com/)
