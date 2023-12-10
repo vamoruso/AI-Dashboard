@@ -11,6 +11,7 @@ Generative text content site (LLM) :
 * [Chat GPT](https://chat.openai.com/)
 * [Claude AI ](https://claude.ai/)
 * [Phind](https://www.phind.com/)
+* [Flow GPT](https://flowgpt.com/chat)
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
