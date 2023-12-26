@@ -5,6 +5,7 @@ Generative AI images sites:
 * [Bing text to image creator](https://www.bing.com/create)
 * [Dream studio](https://dreamstudio.ai/generate)
 * [Imagine Meta](https://imagine.meta.com/)
+* [Galileo UI Design](https://www.usegalileo.ai/explore)
 
 Generative text content site (LLM) :
 * [Google Bard](https://bard.google.com/)
