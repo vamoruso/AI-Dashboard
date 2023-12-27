@@ -1,4 +1,4 @@
-Welcome to the AI-Dashboard wiki!
+Welcome to the AI-Dashboard!
 
 Generative AI images sites:
 * [Adobe Firefly](https://firefly.adobe.com/generate/)
@@ -13,6 +13,7 @@ Generative text content site (LLM) :
 * [Claude AI ](https://claude.ai/)
 * [Phind](https://www.phind.com/)
 * [Flow GPT](https://flowgpt.com/chat)
+* [Gemini](https://makersuite.google.com/app/prompts/new_freeform)
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
