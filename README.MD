@@ -6,6 +6,7 @@ Generative AI images sites:
 * [Dream studio](https://dreamstudio.ai/generate)
 * [Imagine Meta](https://imagine.meta.com/)
 * [Galileo UI Design](https://www.usegalileo.ai/explore)
+* [aMUSED on huggingface](https://huggingface.co/blog/amused)
 
 Generative text content site (LLM) :
 * [Google Bard](https://bard.google.com/)
