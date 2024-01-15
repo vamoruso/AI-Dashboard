@@ -30,3 +30,4 @@ AI Video & Images processing
 * [Microsoft designer](https://designer.microsoft.com/)
 * [InVideo Video Creator](https://ai.invideo.io/)
 * [Huggingface](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
+* [Pika labs](https://pika.art/) 
