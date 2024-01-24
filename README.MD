@@ -33,3 +33,6 @@ AI Video & Images processing
 * [Huggingface](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
 * [Pika labs](https://pika.art/) 
 * [Runway](https://runwayml.com/)
+
+Model Training 
+* [Ludwig](https://ludwig.ai/0.4/)
