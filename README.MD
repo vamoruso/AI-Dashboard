@@ -15,7 +15,7 @@ Generative text content site (LLM) :
 * [Claude AI ](https://claude.ai/)
 * [Phind](https://www.phind.com/)
 * [Flow GPT](https://flowgpt.com/chat)
-* [Gemini](https://makersuite.google.com/app/prompts/new_freeform)
+* [Gemini](https://gemini.google.com/app/)
 * [Groq](https://groq.com/)
 
 Programmer aid tools
