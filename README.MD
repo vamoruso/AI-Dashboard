@@ -16,6 +16,7 @@ Generative text content site (LLM) :
 * [Phind](https://www.phind.com/)
 * [Flow GPT](https://flowgpt.com/chat)
 * [Gemini](https://makersuite.google.com/app/prompts/new_freeform)
+* [Groq](https://groq.com/)
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
