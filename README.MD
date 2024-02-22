@@ -10,7 +10,6 @@ Generative AI images sites:
 * [PhotoMaker on huggingface](https://huggingface.co/spaces/TencentARC/PhotoMaker)
 
 Generative text content site (LLM) :
-* [Google Bard](https://bard.google.com/)
 * [Chat GPT](https://chat.openai.com/)
 * [Claude AI ](https://claude.ai/)
 * [Phind](https://www.phind.com/)
