@@ -19,6 +19,7 @@ Generative text content site (LLM) :
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
+* [LM Studio](https://lmstudio.ai/)
 
 LLM Guide sites
 * [Prompt Guide](https://www.promptingguide.ai/)
