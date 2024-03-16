@@ -35,5 +35,8 @@ AI Video & Images processing
 * [Pika labs](https://pika.art/) 
 * [Runway](https://runwayml.com/)
 
+AI Music gen
+* [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
+
 Model Training 
 * [Ludwig](https://ludwig.ai/0.4/)
