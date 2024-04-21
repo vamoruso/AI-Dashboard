@@ -38,5 +38,8 @@ AI Video & Images processing
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
 
+Courses 
+* [Microsoft course](https://microsoft.github.io/AI-For-Beginners/)
+
 Model Training 
 * [Ludwig](https://ludwig.ai/0.4/)
