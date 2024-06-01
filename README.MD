@@ -20,6 +20,7 @@ Generative text content site (LLM) :
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
 * [LM Studio](https://lmstudio.ai/)
+* [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=gais&utm_medium=email&utm_campaign=flash_may)
 
 LLM Guide sites
 * [Prompt Guide](https://www.promptingguide.ai/)
