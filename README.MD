@@ -16,6 +16,8 @@ Generative text content site (LLM) :
 * [Flow GPT](https://flowgpt.com/chat)
 * [Gemini](https://gemini.google.com)
 * [Groq](https://groq.com/)
+* [Perplexity](https://www.perplexity.ai/)
+* [Copilot](https://copilot.microsoft.com/)
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
