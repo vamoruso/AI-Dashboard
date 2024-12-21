@@ -38,6 +38,7 @@ AI Video & Images processing
 * [Huggingface](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
 * [Pika labs](https://pika.art/) 
 * [Runway](https://runwayml.com/)
+* [Kling](https://klingai.com/)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
