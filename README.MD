@@ -8,6 +8,7 @@ Generative AI images sites:
 * [Galileo UI Design](https://www.usegalileo.ai/explore)
 * [aMUSED on huggingface](https://huggingface.co/blog/amused)
 * [PhotoMaker on huggingface](https://huggingface.co/spaces/TencentARC/PhotoMaker)
+* [PhotoPik[(https://www.freepik.com/pikaso/ai-image-generator)
 
 Generative text content site (LLM) :
 * [Chat GPT](https://chat.openai.com/)
