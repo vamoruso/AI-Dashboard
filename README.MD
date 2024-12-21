@@ -39,6 +39,7 @@ AI Video & Images processing
 * [Pika labs](https://pika.art/) 
 * [Runway](https://runwayml.com/)
 * [Kling](https://klingai.com/)
+* [Sora](https://openai.com/sora/)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
