@@ -42,6 +42,7 @@ AI Video & Images processing
 * [Sora](https://openai.com/sora/)
 * [DeekAI](https://deepai.org/video)
 * [Dream Machine](https://lumalabs.ai/dream-machine/creations)
+* [Sinthesia](https://www.synthesia.io/#free-ai-video)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
