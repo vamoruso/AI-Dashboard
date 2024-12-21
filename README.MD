@@ -40,6 +40,7 @@ AI Video & Images processing
 * [Runway](https://runwayml.com/)
 * [Kling](https://klingai.com/)
 * [Sora](https://openai.com/sora/)
+* [DeekAI](https://deepai.org/video)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
