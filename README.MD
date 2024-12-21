@@ -41,6 +41,7 @@ AI Video & Images processing
 * [Kling](https://klingai.com/)
 * [Sora](https://openai.com/sora/)
 * [DeekAI](https://deepai.org/video)
+* [Dream Machine](https://lumalabs.ai/dream-machine/creations)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
