@@ -43,6 +43,7 @@ AI Video & Images processing
 * [DeekAI](https://deepai.org/video)
 * [Dream Machine](https://lumalabs.ai/dream-machine/creations)
 * [Sinthesia](https://www.synthesia.io/#free-ai-video)
+* [Google Veo](https://deepmind.google/technologies/veo/veo-2/)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
