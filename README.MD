@@ -45,6 +45,7 @@ AI Video & Images processing
 * [Dream Machine](https://lumalabs.ai/dream-machine/creations)
 * [Sinthesia](https://www.synthesia.io/#free-ai-video)
 * [Google Veo](https://deepmind.google/technologies/veo/veo-2/)
+* [Flux](https://flux-ai.io/)
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
