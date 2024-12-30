@@ -53,5 +53,9 @@ AI Music gen
 Courses 
 * [Microsoft course](https://microsoft.github.io/AI-For-Beginners/)
 
+Certification
+* [Azure Certification](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&roles=ai-engineer)
+
+
 Model Training 
 * [Ludwig](https://ludwig.ai/0.4/)
