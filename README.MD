@@ -20,6 +20,8 @@ Generative text content site (LLM) :
 * [Groq](https://groq.com/)
 * [Perplexity](https://www.perplexity.ai/)
 * [Copilot](https://copilot.microsoft.com/)
+* [Stanford EDU article creation](https://storm.genie.stanford.edu/)
+
 
 Programmer aid tools
 * [Cursor by Red Hat](https://cursor.sh/)
