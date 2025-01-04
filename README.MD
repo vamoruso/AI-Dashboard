@@ -21,6 +21,7 @@ Generative text content site (LLM) :
 * [Perplexity](https://www.perplexity.ai/)
 * [Copilot](https://copilot.microsoft.com/)
 * [Stanford EDU article creation](https://storm.genie.stanford.edu/)
+* [DeepSeek](https://chat.deepseek.com/)
 
 
 Programmer aid tools
