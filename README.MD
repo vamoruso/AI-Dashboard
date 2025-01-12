@@ -29,6 +29,9 @@ Programmer aid tools
 * [LM Studio](https://lmstudio.ai/)
 * [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=gais&utm_medium=email&utm_campaign=flash_may)
 
+Programming Languages translation
+* [Facebook transcoder](https://github.com/facebookresearch/TransCoder)
+
 LLM Guide sites
 * [Prompt Guide](https://www.promptingguide.ai/)
 * [LM Studio - discover LLM](https://lmstudio.ai/)
