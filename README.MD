@@ -10,6 +10,7 @@ Generative AI images sites:
 * [PhotoMaker on huggingface](https://huggingface.co/spaces/TencentARC/PhotoMaker)
 * [PhotoPik](https://www.freepik.com/pikaso/ai-image-generator)
 * [Stable diffusion](https://stablediffusionweb.com/app/image-generator)
+* [Freepik](https://www.freepik.com/pikaso)
 
 Generative text content site (LLM) :
 * [Chat GPT](https://chat.openai.com/)
