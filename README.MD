@@ -18,11 +18,13 @@ Generative text content site (LLM) :
 * [Phind](https://www.phind.com/)
 * [Flow GPT](https://flowgpt.com/chat)
 * [Gemini](https://gemini.google.com)
-* [Groq](https://groq.com/)
+* [Grok](https://x.com/i/grok)
 * [Perplexity](https://www.perplexity.ai/)
 * [Copilot](https://copilot.microsoft.com/)
 * [Stanford EDU article creation](https://storm.genie.stanford.edu/)
 * [DeepSeek](https://chat.deepseek.com/)
+* [Qwen](https://chat.qwen.ai/)
+* [Metai](https://www.meta.ai/)
 
 
 Programmer aid tools
@@ -53,6 +55,8 @@ AI Video & Images processing
 * [Sinthesia](https://www.synthesia.io/#free-ai-video)
 * [Google Veo](https://deepmind.google/technologies/veo/veo-2/)
 * [Flux](https://flux-ai.io/)
+* [Civitaai](https://civitai.com/)
+
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
