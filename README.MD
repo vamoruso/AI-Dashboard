@@ -56,6 +56,12 @@ AI Video & Images processing
 * [Google Veo](https://deepmind.google/technologies/veo/veo-2/)
 * [Flux](https://flux-ai.io/)
 * [Civitaai](https://civitai.com/)
+* [genmo](https://www.genmo.ai/)
+* [LTX Studio](https://ltx.studio/)
+* [VIggle](https://viggle.ai)
+* [Minimax](https://hailuoai.video/)
+* [Hedra](https://www.hedra.com/)
+
 
 
 AI Music gen
