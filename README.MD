@@ -61,7 +61,7 @@ AI Video & Images processing
 * [VIggle](https://viggle.ai)
 * [Minimax](https://hailuoai.video/)
 * [Hedra](https://www.hedra.com/)
-
+* [Wan Video by Qwen](https://wan.video/generate)
 
 
 AI Music gen
@@ -72,6 +72,10 @@ Courses
 
 Certification
 * [Azure Certification](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&roles=ai-engineer)
+
+AI Model link
+* [Wan on Hugging Face](https://huggingface.co/Wan-AI/Wan2.2-S2V-14B)
+
 
 
 Model Training 
