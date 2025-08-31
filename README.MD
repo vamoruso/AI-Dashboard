@@ -66,6 +66,7 @@ AI Video & Images processing
 
 AI Music gen
 * [Facebook Musicgen](https://huggingface.co/spaces/facebook/MusicGen)
+* [AIVA](https://www.topmediai.com/ai-music-generator/)
 
 Courses 
 * [Microsoft course](https://microsoft.github.io/AI-For-Beginners/)
