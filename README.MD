@@ -77,7 +77,8 @@ Certification
 AI Model link
 * [Wan on Hugging Face](https://huggingface.co/Wan-AI/Wan2.2-S2V-14B)
 
-
+AI Agent
+* [Otter AI](https://otter.ai/)
 
 Model Training 
 * [Ludwig](https://ludwig.ai/0.4/)
