@@ -11,6 +11,7 @@ Generative AI images sites:
 * [PhotoPik](https://www.freepik.com/pikaso/ai-image-generator)
 * [Stable diffusion](https://stablediffusionweb.com/app/image-generator)
 * [Freepik](https://www.freepik.com/pikaso)
+* [Grok Image](https://grokimagine.ai/text-to-video)
 
 Generative text content site (LLM) :
 * [Chat GPT](https://chat.openai.com/)
